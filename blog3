@@ -1,0 +1,247 @@
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+Results, using embeddings of dimensionality 128
+-------------------
+Train percent: 0.1
+Shuffle #1:    {'macro': 0.18486875254288485, 'micro': 0.3234932349323493}
+Shuffle #2:    {'macro': 0.1843556799663302, 'micro': 0.32210283960092095}
+Shuffle #3:    {'macro': 0.1877832014849761, 'micro': 0.3236106846791526}
+Shuffle #4:    {'macro': 0.17523847293760372, 'micro': 0.3166474432910419}
+Shuffle #5:    {'macro': 0.18646365074470722, 'micro': 0.3212506705494674}
+Shuffle #6:    {'macro': 0.18187440768106644, 'micro': 0.3182934315531001}
+Shuffle #7:    {'macro': 0.18762119210668723, 'micro': 0.32154365505600735}
+Shuffle #8:    {'macro': 0.18937658609444707, 'micro': 0.32985578398281684}
+Shuffle #9:    {'macro': 0.1824600518288319, 'micro': 0.32018685863072444}
+Shuffle #10:    {'macro': 0.18943005575265212, 'micro': 0.3255652976465159}
+Average score: {'macro': 0.1849472051140187, 'micro': 0.32225498999220964}
+-------------------
+Train percent: 0.2
+Shuffle #1:    {'macro': 0.20421901445098176, 'micro': 0.344764873993245}
+Shuffle #2:    {'macro': 0.2024604987933169, 'micro': 0.35238259668508287}
+Shuffle #3:    {'macro': 0.20973762266897614, 'micro': 0.3493934440333821}
+Shuffle #4:    {'macro': 0.21265037746266716, 'micro': 0.351480006924009}
+Shuffle #5:    {'macro': 0.19984531516690573, 'micro': 0.3415326395458846}
+Shuffle #6:    {'macro': 0.2017565992995598, 'micro': 0.3450090587524804}
+Shuffle #7:    {'macro': 0.20545275218805953, 'micro': 0.3448990160538581}
+Shuffle #8:    {'macro': 0.19883409006693292, 'micro': 0.3430252682589131}
+Shuffle #9:    {'macro': 0.19604950270793833, 'micro': 0.3423983423983424}
+Shuffle #10:    {'macro': 0.2055082358539516, 'micro': 0.3526415745856354}
+Average score: {'macro': 0.203651400865929, 'micro': 0.3467526821230833}
+-------------------
+Train percent: 0.30000000000000004
+Shuffle #1:    {'macro': 0.21247090406345587, 'micro': 0.35929921805404336}
+Shuffle #2:    {'macro': 0.21796126562646884, 'micro': 0.36868039814723563}
+Shuffle #3:    {'macro': 0.21651656860740295, 'micro': 0.36135939495138}
+Shuffle #4:    {'macro': 0.21447312040281444, 'micro': 0.36468139926667326}
+Shuffle #5:    {'macro': 0.2143458532875555, 'micro': 0.3636095256839205}
+Shuffle #6:    {'macro': 0.20442178688442447, 'micro': 0.35965258586656146}
+Shuffle #7:    {'macro': 0.2186215942480817, 'micro': 0.3582987961318334}
+Shuffle #8:    {'macro': 0.20396189457834593, 'micro': 0.3529295132348568}
+Shuffle #9:    {'macro': 0.20961124931117878, 'micro': 0.3534406160529174}
+Shuffle #10:    {'macro': 0.21475393363177206, 'micro': 0.36739948504654385}
+Average score: {'macro': 0.21271381706415005, 'micro': 0.36093509324359657}
+-------------------
+Train percent: 0.4
+Shuffle #1:    {'macro': 0.2190412815063818, 'micro': 0.36899512647946153}
+Shuffle #2:    {'macro': 0.22057319878046777, 'micro': 0.37200229489386116}
+Shuffle #3:    {'macro': 0.2229005260387583, 'micro': 0.36535828388863534}
+Shuffle #4:    {'macro': 0.21411464168527308, 'micro': 0.3684210526315789}
+Shuffle #5:    {'macro': 0.2223475620736736, 'micro': 0.3759511182845285}
+Shuffle #6:    {'macro': 0.21693017561547265, 'micro': 0.3667127071823205}
+Shuffle #7:    {'macro': 0.21919057300227784, 'micro': 0.3661874640598045}
+Shuffle #8:    {'macro': 0.21669712584683273, 'micro': 0.36228716060745514}
+Shuffle #9:    {'macro': 0.21305155269411238, 'micro': 0.36605906783571757}
+Shuffle #10:    {'macro': 0.22360425607152826, 'micro': 0.3748700773761404}
+Average score: {'macro': 0.2188450893314778, 'micro': 0.36868443532395034}
+-------------------
+Train percent: 0.5
+Shuffle #1:    {'macro': 0.22162914374901424, 'micro': 0.37538247566063976}
+Shuffle #2:    {'macro': 0.22125521201994672, 'micro': 0.37714681440443215}
+Shuffle #3:    {'macro': 0.22982939375943326, 'micro': 0.3762851267991776}
+Shuffle #4:    {'macro': 0.21552491605136295, 'micro': 0.37206375838926176}
+Shuffle #5:    {'macro': 0.23024006686094844, 'micro': 0.3825521913452233}
+Shuffle #6:    {'macro': 0.21610846144357987, 'micro': 0.3688433868289984}
+Shuffle #7:    {'macro': 0.2258986033619137, 'micro': 0.37614424410540914}
+Shuffle #8:    {'macro': 0.22497361717007217, 'micro': 0.37610253583241454}
+Shuffle #9:    {'macro': 0.21288319033858877, 'micro': 0.36728778467908907}
+Shuffle #10:    {'macro': 0.2251350744573896, 'micro': 0.3793725707940033}
+Average score: {'macro': 0.222347767921225, 'micro': 0.3751180888838649}
+-------------------
+Train percent: 0.6000000000000001
+Shuffle #1:    {'macro': 0.2279351447808668, 'micro': 0.3831384185721767}
+Shuffle #2:    {'macro': 0.22697170416691032, 'micro': 0.38319707775265266}
+Shuffle #3:    {'macro': 0.22308728123978158, 'micro': 0.3719178082191781}
+Shuffle #4:    {'macro': 0.21752922648908798, 'micro': 0.3831236897274633}
+Shuffle #5:    {'macro': 0.22568617701110424, 'micro': 0.3827502597852442}
+Shuffle #6:    {'macro': 0.21303535240853952, 'micro': 0.36760660247592847}
+Shuffle #7:    {'macro': 0.2321419827513012, 'micro': 0.382016632016632}
+Shuffle #8:    {'macro': 0.22455010623276578, 'micro': 0.38072289156626504}
+Shuffle #9:    {'macro': 0.21548180652091345, 'micro': 0.3697638338217549}
+Shuffle #10:    {'macro': 0.2296695877533575, 'micro': 0.37686696769711703}
+Average score: {'macro': 0.22360883693546282, 'micro': 0.37811041816344126}
+-------------------
+Train percent: 0.7000000000000001
+Shuffle #1:    {'macro': 0.2230417490581144, 'micro': 0.3791491351098644}
+Shuffle #2:    {'macro': 0.23267519484704094, 'micro': 0.38579387186629527}
+Shuffle #3:    {'macro': 0.23418708516077566, 'micro': 0.3890522506220312}
+Shuffle #4:    {'macro': 0.22628185664838993, 'micro': 0.3924196903166166}
+Shuffle #5:    {'macro': 0.22928793983070447, 'micro': 0.38874739523037743}
+Shuffle #6:    {'macro': 0.21328095929493335, 'micro': 0.368649885583524}
+Shuffle #7:    {'macro': 0.23360085772655212, 'micro': 0.38341373765219383}
+Shuffle #8:    {'macro': 0.21721074444175237, 'micro': 0.368590480570246}
+Shuffle #9:    {'macro': 0.21883731601241949, 'micro': 0.37592764378478666}
+Shuffle #10:    {'macro': 0.2319752248805919, 'micro': 0.3761574074074074}
+Average score: {'macro': 0.22603789279012743, 'micro': 0.38079014981433434}
+-------------------
+Train percent: 0.8
+Shuffle #1:    {'macro': 0.22574360675128124, 'micro': 0.38861731843575426}
+Shuffle #2:    {'macro': 0.2477713071131173, 'micro': 0.3978835978835979}
+Shuffle #3:    {'macro': 0.24110228477684933, 'micro': 0.39148073022312374}
+Shuffle #4:    {'macro': 0.236323803632214, 'micro': 0.4047370254266806}
+Shuffle #5:    {'macro': 0.22617641757366505, 'micro': 0.38269896193771624}
+Shuffle #6:    {'macro': 0.21108122618287076, 'micro': 0.3669756265018881}
+Shuffle #7:    {'macro': 0.22458741944624622, 'micro': 0.3743961352657005}
+Shuffle #8:    {'macro': 0.22566762763249243, 'micro': 0.3775265501884207}
+Shuffle #9:    {'macro': 0.2265095993381975, 'micro': 0.38299343242309014}
+Shuffle #10:    {'macro': 0.23049044283409478, 'micro': 0.3820771101076762}
+Average score: {'macro': 0.22954537352810286, 'micro': 0.3849386488393648}
+-------------------
+Train percent: 0.9
+Shuffle #1:    {'macro': 0.21913532175127992, 'micro': 0.39142656359803235}
+Shuffle #2:    {'macro': 0.2289565796434672, 'micro': 0.38825214899713467}
+Shuffle #3:    {'macro': 0.23374632091279737, 'micro': 0.38322938322938327}
+Shuffle #4:    {'macro': 0.22736746894511206, 'micro': 0.39803784162578837}
+Shuffle #5:    {'macro': 0.2296418180726171, 'micro': 0.39265927977839343}
+Shuffle #6:    {'macro': 0.21721771749150243, 'micro': 0.36692147324530916}
+Shuffle #7:    {'macro': 0.2116034509670278, 'micro': 0.3754313319530711}
+Shuffle #8:    {'macro': 0.2295840046844544, 'micro': 0.37721691678035474}
+Shuffle #9:    {'macro': 0.22606878710446304, 'micro': 0.387741046831956}
+Shuffle #10:    {'macro': 0.23623219634415468, 'micro': 0.3807245386192754}
+Average score: {'macro': 0.22595536659168758, 'micro': 0.3841640524658699}
+-------------------

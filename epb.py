@@ -1,7 +1,8 @@
 import sys
-# sys.path.append('/storage/home/gauthamk2512/.local/lib/python3.5/site-packages')
+sys.path.append('/storage/home/gauthamk2512/.local/lib/python3.5/site-packages')
 import networkx as nx
 import numpy as np
+import pandas as pd
 import random
 import tensorflow as tf
 import batch
@@ -40,8 +41,8 @@ def build_graph(filename, max_rows = 100):
 	return g
 
 
-g = build_graph(filename = '../data/blog/edges.csv')
-
+#g = build_graph(filename = '../data/blog/edges.csv')
+g = build_graph(filename = '../Together/wiki.mat')
 print("Graph is Built")
 
 """
@@ -92,7 +93,8 @@ def loss_fn(gamma):
 """
 Variables and Placeholders
 """
-embeddings = tf.Variable(embeds, name = "embeddings")
+
+#embeddings = tf.Variable(embeds, name = "embeddings")
 batch_nodes = tf.placeholder(dtype = tf.int32, name="batch_nodes")
 batch_size = tf.placeholder(dtype = tf.float32, shape=[], name = "batch_size")
 neighbors = tf.placeholder(dtype = tf.float32, name='neighbors')
@@ -101,7 +103,7 @@ negative_sample = tf.placeholder(dtype = tf.int32, name = 'negative_sample')
 
 nodes = len(g.nodes())
 dim = 128
-gamma = 1.0 # Value depends on the dataset
+gamma = 10.0 # Value depends on the dataset
 num_samples = 5 # If more than one negative sample needed 
 
 embeds = tf.random_uniform(
@@ -110,12 +112,7 @@ embeds = tf.random_uniform(
     minval= -0.0884,
     maxval= 0.0884
 )
-'''
-embeds = tf.truncated_normal(
-    shape = [nodes, dim],
-    dtype=tf.float32,
-)
-'''
+embeddings = tf.Variable(embeds, name = "embeddings")
 
 """
 Build Network
@@ -135,7 +132,7 @@ optimizer = tf.train.AdamOptimizer().minimize(loss)
 
 #saver = tf.train.Saver()
 
-num_batch = 162 # Value Depends on dataset used. 
+num_batch = 75 # Value Depends on dataset used. 
 batch_s = 64 # Default
 
 batches = batch.fetch_batch(g, num_batch, batch_s)
@@ -144,18 +141,18 @@ batches = batch.fetch_batch(g, num_batch, batch_s)
 epochs = 200
 
 with tf.Session() as sess:
-	
+
 	# Initializing the variables
 	sess.run(tf.global_variables_initializer())
 	for epoch in range(epochs):
 		cost_ = 0
 		#neg_sample = np.random.choice(nodes,1).astype(np.int32)
 		for batch_id in batches:
-			
+
 			#for sample in range(num_samples):
 			sample_size = len(batch_id[0])
 			neg_sample = np.random.choice(nodes, sample_size).astype(np.int32)
-			
+
 			sess.run(optimizer, feed_dict = {
 				batch_nodes: batch_id[0],
 				neighbors: batch_id[1],
@@ -169,7 +166,7 @@ with tf.Session() as sess:
 				negative_sample: neg_sample,
 				batch_size: batch_s
 				})
-			
+
 			cost_ = cost_ + cost
 
 		if (epoch % 10) == 0 :
@@ -178,15 +175,15 @@ with tf.Session() as sess:
 	embeds = sess.run(embeddings,{})
 	
 	# Save the final embeddings in csv file
-	np.savetxt('epbembed_blog.csv',embeds, delimiter = ' ')
+	np.savetxt('epbembed_wiki.csv',embeds, delimiter = ' ')
 	#save_path = saver.save(sess, "tmp/model-epb.ckpt")
 	#print("Model saved in path: %s" % save_path)
 
 # Prepare the final embeddings in a format suitable for gensim package
 rows = np.arange(10312)
-df = pd.read_csv('epbembed_blog.csv', header =None, delimiter = ' ')
+df = pd.read_csv('epbembed_wiki.csv', header =None, delimiter = ' ')
 df = pd.DataFrame(index = rows, data = df)
-df.to_csv('embeds-finalblog.csv', sep = ' ', header=None)
+df.to_csv('embeds-finalwiki.csv', sep = ' ', header=None)
 
 # CSV file ready to send scoring.py for evaluation
 

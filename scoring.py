@@ -4,9 +4,10 @@
 
 __author__      = "Bryan Perozzi"
 
-import numpy
-import sys
 
+import sys
+sys.path.append('/storage/home/gauthamk2512/.local/lib/python3.5/site-packages')
+import numpy
 from argparse import ArgumentParser, ArgumentDefaultsHelpFormatter
 from collections import defaultdict
 from gensim.models import Word2Vec, KeyedVectors
@@ -111,7 +112,7 @@ def main():
       for i, j in zip(cy.row, cy.col):
           y_test[i].append(j)
   
-      clf = TopKRanker(LogisticRegression(penalty = 'l2', C = 1.0))
+      clf = TopKRanker(LogisticRegression(penalty = 'l2', C = 20.0))
       clf.fit(X_train, y_train_)
   
       # find out how many labels should be predicted

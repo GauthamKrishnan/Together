@@ -1,0 +1,179 @@
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 0 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+Results, using embeddings of dimensionality 128
+-------------------
+Train percent: 0.1
+Shuffle #1:    {'macro': 0.16041076131065174, 'micro': 0.18929765886287625}
+Shuffle #2:    {'macro': 0.14122605531894045, 'micro': 0.16893366918555835}
+Shuffle #3:    {'macro': 0.1401316884645764, 'micro': 0.17427524158613794}
+Shuffle #4:    {'macro': 0.1287751588896084, 'micro': 0.16915589864071154}
+Shuffle #5:    {'macro': 0.14484096739109825, 'micro': 0.18396780144222707}
+Shuffle #6:    {'macro': 0.14403753874010058, 'micro': 0.17430578788892606}
+Shuffle #7:    {'macro': 0.1417683889980378, 'micro': 0.17084509380707288}
+Shuffle #8:    {'macro': 0.14295680029645694, 'micro': 0.18494299128101946}
+Shuffle #9:    {'macro': 0.1415966493567966, 'micro': 0.18299445471349354}
+Shuffle #10:    {'macro': 0.13646042753696194, 'micro': 0.17180174146014734}
+Average score: {'macro': 0.1422204436303229, 'micro': 0.17705203388681706}
+-------------------
+Train percent: 0.2
+Shuffle #1:    {'macro': 0.1692733217032472, 'micro': 0.20247005988023953}
+Shuffle #2:    {'macro': 0.163213246157497, 'micro': 0.2020754716981132}
+Shuffle #3:    {'macro': 0.17250597542027976, 'micro': 0.20056390977443608}
+Shuffle #4:    {'macro': 0.15967693310726586, 'micro': 0.1986742424242424}
+Shuffle #5:    {'macro': 0.17336573845464678, 'micro': 0.20686403922308128}
+Shuffle #6:    {'macro': 0.16128868425309242, 'micro': 0.20094161958568738}
+Shuffle #7:    {'macro': 0.16791953363011392, 'micro': 0.196528555431131}
+Shuffle #8:    {'macro': 0.15612448252699562, 'micro': 0.19740552735476594}
+Shuffle #9:    {'macro': 0.1633583654476677, 'micro': 0.19984831247629886}
+Shuffle #10:    {'macro': 0.16309448664965182, 'micro': 0.1958937653042004}
+Average score: {'macro': 0.1649820767350458, 'micro': 0.2001265503152196}
+-------------------
+Train percent: 0.30000000000000004
+Shuffle #1:    {'macro': 0.17589961243267355, 'micro': 0.2087865216464065}
+Shuffle #2:    {'macro': 0.17989602129066568, 'micro': 0.21240844463593278}
+Shuffle #3:    {'macro': 0.17791459145083152, 'micro': 0.2104474416613145}
+Shuffle #4:    {'macro': 0.17852855287755903, 'micro': 0.21144604630843164}
+Shuffle #5:    {'macro': 0.17494479326602458, 'micro': 0.2081262156905122}
+Shuffle #6:    {'macro': 0.17028541373943903, 'micro': 0.20670147954743254}
+Shuffle #7:    {'macro': 0.17614562715113938, 'micro': 0.20578231292517007}
+Shuffle #8:    {'macro': 0.17641322134753148, 'micro': 0.21240844463593278}
+Shuffle #9:    {'macro': 0.1803084847717889, 'micro': 0.21138912855910266}
+Shuffle #10:    {'macro': 0.1770940633206268, 'micro': 0.208900410455822}
+Average score: {'macro': 0.176743038164828, 'micro': 0.20963964460660578}
+-------------------
+Train percent: 0.4
+Shuffle #1:    {'macro': 0.1788667518260337, 'micro': 0.21352752406813133}
+Shuffle #2:    {'macro': 0.18085533217257863, 'micro': 0.213}
+Shuffle #3:    {'macro': 0.18542079788862295, 'micro': 0.2216674987518722}
+Shuffle #4:    {'macro': 0.18910857443103637, 'micro': 0.22522292993630574}
+Shuffle #5:    {'macro': 0.18330198178297014, 'micro': 0.22278225806451613}
+Shuffle #6:    {'macro': 0.1825458444085726, 'micro': 0.21327254305977708}
+Shuffle #7:    {'macro': 0.18295558089186376, 'micro': 0.21841648051625714}
+Shuffle #8:    {'macro': 0.18238494197432759, 'micro': 0.21762948207171315}
+Shuffle #9:    {'macro': 0.18941063734483826, 'micro': 0.21748991935483872}
+Shuffle #10:    {'macro': 0.18831725891972062, 'micro': 0.21889055472263869}
+Average score: {'macro': 0.18431677016405645, 'micro': 0.218189919054605}
+-------------------
+Train percent: 0.5
+Shuffle #1:    {'macro': 0.19911143680265958, 'micro': 0.23156342182890854}
+Shuffle #2:    {'macro': 0.18538320876098546, 'micro': 0.22152278177458035}
+Shuffle #3:    {'macro': 0.19695228798631706, 'micro': 0.23309395571514063}
+Shuffle #4:    {'macro': 0.20619459858861966, 'micro': 0.23887375113533152}
+Shuffle #5:    {'macro': 0.19178625030667587, 'micro': 0.22620481927710842}
+Shuffle #6:    {'macro': 0.19182457046669363, 'micro': 0.22574740695546064}
+Shuffle #7:    {'macro': 0.18307519170872588, 'micro': 0.21909607901825798}
+Shuffle #8:    {'macro': 0.1898287678931815, 'micro': 0.2232488822652757}
+Shuffle #9:    {'macro': 0.1895354870609197, 'micro': 0.2204724409448819}
+Shuffle #10:    {'macro': 0.18340665539024814, 'micro': 0.21505376344086022}
+Average score: {'macro': 0.19170984549650263, 'micro': 0.22548773023558052}
+-------------------
+Train percent: 0.6000000000000001
+Shuffle #1:    {'macro': 0.20722547563374924, 'micro': 0.23769287288758267}
+Shuffle #2:    {'macro': 0.1898742661539656, 'micro': 0.23178557946394865}
+Shuffle #3:    {'macro': 0.20040353589093146, 'micro': 0.23726292301970994}
+Shuffle #4:    {'macro': 0.2112715011946219, 'micro': 0.2456538170823885}
+Shuffle #5:    {'macro': 0.19236557405872332, 'micro': 0.22689706987227648}
+Shuffle #6:    {'macro': 0.20643272334943708, 'micro': 0.23693246852346433}
+Shuffle #7:    {'macro': 0.180837469461786, 'micro': 0.21803950801341782}
+Shuffle #8:    {'macro': 0.1977933703570778, 'micro': 0.2358420268256334}
+Shuffle #9:    {'macro': 0.19154130756259846, 'micro': 0.22419659735349715}
+Shuffle #10:    {'macro': 0.18341863033627576, 'micro': 0.21705137751303052}
+Average score: {'macro': 0.19611638539991666, 'micro': 0.23113542405549498}
+-------------------
+Train percent: 0.7000000000000001
+Shuffle #1:    {'macro': 0.20022252277318034, 'micro': 0.2371031746031746}
+Shuffle #2:    {'macro': 0.19504280489701262, 'micro': 0.23151950718685832}
+Shuffle #3:    {'macro': 0.20297197114538926, 'micro': 0.24237881059470265}
+Shuffle #4:    {'macro': 0.2136735918539379, 'micro': 0.2542885973763875}
+Shuffle #5:    {'macro': 0.19544188777115057, 'micro': 0.22671443193449334}
+Shuffle #6:    {'macro': 0.2139343558439354, 'micro': 0.24808575803981622}
+Shuffle #7:    {'macro': 0.1888471231560565, 'micro': 0.2308457711442786}
+Shuffle #8:    {'macro': 0.19750473494546644, 'micro': 0.24158415841584158}
+Shuffle #9:    {'macro': 0.20327311302452053, 'micro': 0.23394723743155799}
+Shuffle #10:    {'macro': 0.18296898750098906, 'micro': 0.21786600496277916}
+Average score: {'macro': 0.19938810929116382, 'micro': 0.23643334516898898}
+-------------------
+Train percent: 0.8
+Shuffle #1:    {'macro': 0.18550734402593136, 'micro': 0.23214285714285715}
+Shuffle #2:    {'macro': 0.18945178800174386, 'micro': 0.22560975609756098}
+Shuffle #3:    {'macro': 0.21124146404912525, 'micro': 0.25073529411764706}
+Shuffle #4:    {'macro': 0.21966101488645542, 'micro': 0.2633158289572393}
+Shuffle #5:    {'macro': 0.20618512005711342, 'micro': 0.2280966767371601}
+Shuffle #6:    {'macro': 0.20732542288863065, 'micro': 0.2547673531655225}
+Shuffle #7:    {'macro': 0.20021959241634232, 'micro': 0.24924698795180722}
+Shuffle #8:    {'macro': 0.19683282206098326, 'micro': 0.24299772899318697}
+Shuffle #9:    {'macro': 0.2170811303231569, 'micro': 0.24444444444444444}
+Shuffle #10:    {'macro': 0.18460637724957102, 'micro': 0.2140193885160328}
+Average score: {'macro': 0.20181120759590537, 'micro': 0.24053763161234584}
+-------------------
+Train percent: 0.9
+Shuffle #1:    {'macro': 0.1770003021314099, 'micro': 0.2345132743362832}
+Shuffle #2:    {'macro': 0.19673933489299827, 'micro': 0.25229357798165136}
+Shuffle #3:    {'macro': 0.201209319872922, 'micro': 0.25}
+Shuffle #4:    {'macro': 0.20858876167054383, 'micro': 0.2548148148148148}
+Shuffle #5:    {'macro': 0.17880935177212318, 'micro': 0.22403560830860533}
+Shuffle #6:    {'macro': 0.21022798786224894, 'micro': 0.25960061443932414}
+Shuffle #7:    {'macro': 0.18889713390908425, 'micro': 0.2521613832853026}
+Shuffle #8:    {'macro': 0.170348478773309, 'micro': 0.23006134969325154}
+Shuffle #9:    {'macro': 0.19458821105209778, 'micro': 0.23703703703703705}
+Shuffle #10:    {'macro': 0.1858680111897726, 'micro': 0.22790697674418606}
+Average score: {'macro': 0.19122768931265097, 'micro': 0.2422424636640456}
+-------------------

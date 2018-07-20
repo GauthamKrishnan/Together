@@ -1,0 +1,27 @@
+Graph is Built
+2018-07-20 06:35:52.212116: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2018-07-20 06:35:55.141556: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1030] Found device 0 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:04:00.0
+totalMemory: 11.17GiB freeMemory: 11.11GiB
+2018-07-20 06:35:55.141599: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:04:00.0, compute capability: 3.7)
+Loss:  64.27437622164503
+Loss:  33.58515954017639
+Loss:  13.174074724868492
+Loss:  8.28005509759173
+Loss:  6.468436740430785
+Loss:  5.489602977478945
+Loss:  4.964842320960245
+Loss:  4.743611775430632
+Loss:  4.382030390662911
+Loss:  4.155257609155443
+Loss:  4.089893678088247
+Loss:  3.8946928904380327
+Loss:  3.5818083816104465
+Loss:  3.4306114617689154
+Loss:  3.3598158488303054
+Loss:  3.315198430676519
+Loss:  3.184242809628263
+Loss:  3.0916384936850747
+Loss:  2.965351129755562
+Loss:  2.979665791178927

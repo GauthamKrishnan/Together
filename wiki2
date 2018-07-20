@@ -1,0 +1,1581 @@
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 18 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 22 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 23 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 25 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 26 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 29 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 30 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 29 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 30 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 34 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 20 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 22 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 23 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 25 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 26 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 29 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 30 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 32 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 15 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 17 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 25 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 29 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 30 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 32 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 3 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 9 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 15 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 22 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 23 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 26 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 32 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 22 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 26 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 17 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 18 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 22 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 25 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 34 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 9 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 15 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 18 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 22 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 25 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 26 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 30 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 9 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 15 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 17 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 22 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 25 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 29 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 30 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 32 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 20 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 22 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 29 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 18 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 29 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 30 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 34 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 23 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 29 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 30 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 32 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 15 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 25 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 3 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 9 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 15 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 22 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 26 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 22 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 18 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 25 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 15 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 30 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 15 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 17 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 22 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 25 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 29 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 30 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 22 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 29 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 18 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 29 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 30 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 32 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 22 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 18 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 25 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 22 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 29 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 29 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 22 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 11 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 39 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 16 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 24 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 13 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 10 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 31 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 27 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 35 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 38 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 37 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/multiclass.py:76: UserWarning: Label not 21 is present in all training examples.
+  str(classes[c]))
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/storage/home/gauthamk2512/mile/lib/python3.5/site-packages/sklearn/metrics/classification.py:1137: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+Results, using embeddings of dimensionality 128
+-------------------
+Train percent: 0.1
+Shuffle #1:    {'macro': 0.09672380749331445, 'micro': 0.4825838103025348}
+Shuffle #2:    {'macro': 0.09363807713585817, 'micro': 0.4784461563678086}
+Shuffle #3:    {'macro': 0.09762136843484044, 'micro': 0.48105625717566014}
+Shuffle #4:    {'macro': 0.09649679056578819, 'micro': 0.48578004274206804}
+Shuffle #5:    {'macro': 0.09190582111610993, 'micro': 0.47973083866732313}
+Shuffle #6:    {'macro': 0.09529101962838953, 'micro': 0.4655059132720105}
+Shuffle #7:    {'macro': 0.09331856763280688, 'micro': 0.47519710906701706}
+Shuffle #8:    {'macro': 0.08623581413942542, 'micro': 0.46667760998030205}
+Shuffle #9:    {'macro': 0.09025056346050968, 'micro': 0.47206795164978765}
+Shuffle #10:    {'macro': 0.09375975402979685, 'micro': 0.47557377049180327}
+Average score: {'macro': 0.09352415836368394, 'micro': 0.4762619459716316}
+-------------------
+Train percent: 0.2
+Shuffle #1:    {'macro': 0.09363795199511081, 'micro': 0.5043143014503396}
+Shuffle #2:    {'macro': 0.09475526168460144, 'micro': 0.4929058411645476}
+Shuffle #3:    {'macro': 0.09743780330956728, 'micro': 0.49788486297590584}
+Shuffle #4:    {'macro': 0.09413759657059541, 'micro': 0.4866063181230371}
+Shuffle #5:    {'macro': 0.09480611927409939, 'micro': 0.49288223331484565}
+Shuffle #6:    {'macro': 0.09743708667081241, 'micro': 0.4935638102243472}
+Shuffle #7:    {'macro': 0.09448300241876406, 'micro': 0.49621421975992613}
+Shuffle #8:    {'macro': 0.09595917014994208, 'micro': 0.496301775147929}
+Shuffle #9:    {'macro': 0.09623127790325683, 'micro': 0.49126998713471787}
+Shuffle #10:    {'macro': 0.09760988316659905, 'micro': 0.48656111929307805}
+Average score: {'macro': 0.09564951531433487, 'micro': 0.49385044685886725}
+-------------------
+Train percent: 0.30000000000000004
+Shuffle #1:    {'macro': 0.09443830155178597, 'micro': 0.505459890802184}
+Shuffle #2:    {'macro': 0.09763705706860253, 'micro': 0.4994729074425469}
+Shuffle #3:    {'macro': 0.09912924408625187, 'micro': 0.5080101180438449}
+Shuffle #4:    {'macro': 0.08999678677861608, 'micro': 0.48536895674300257}
+Shuffle #5:    {'macro': 0.09293350422590073, 'micro': 0.4995801847187238}
+Shuffle #6:    {'macro': 0.09367686284114582, 'micro': 0.4879074658254469}
+Shuffle #7:    {'macro': 0.10050054508456459, 'micro': 0.5068320369981081}
+Shuffle #8:    {'macro': 0.09348077319512531, 'micro': 0.4995757318625371}
+Shuffle #9:    {'macro': 0.0945457751362441, 'micro': 0.4936152396901821}
+Shuffle #10:    {'macro': 0.0980827504677786, 'micro': 0.5064278187565859}
+Average score: {'macro': 0.09544216004360156, 'micro': 0.4992250350883163}
+-------------------
+Train percent: 0.4
+Shuffle #1:    {'macro': 0.09254694869596206, 'micro': 0.5021929824561403}
+Shuffle #2:    {'macro': 0.09543257823572862, 'micro': 0.4963199214916585}
+Shuffle #3:    {'macro': 0.10062023664869543, 'micro': 0.5127826941986234}
+Shuffle #4:    {'macro': 0.0923073187360522, 'micro': 0.48949839387200395}
+Shuffle #5:    {'macro': 0.0895049214079496, 'micro': 0.4969430178527757}
+Shuffle #6:    {'macro': 0.09445777188973407, 'micro': 0.4894192913385827}
+Shuffle #7:    {'macro': 0.0991010822915821, 'micro': 0.5035495716034272}
+Shuffle #8:    {'macro': 0.09557981761026528, 'micro': 0.5021097046413502}
+Shuffle #9:    {'macro': 0.09440334628927725, 'micro': 0.49718068153959305}
+Shuffle #10:    {'macro': 0.0948544576903724, 'micro': 0.5021044813072543}
+Average score: {'macro': 0.09488084794956189, 'micro': 0.499210074030141}
+-------------------
+Train percent: 0.5
+Shuffle #1:    {'macro': 0.09294052717495718, 'micro': 0.5023419203747073}
+Shuffle #2:    {'macro': 0.0982394136631289, 'micro': 0.49882283696291935}
+Shuffle #3:    {'macro': 0.09859463665208815, 'micro': 0.5118413262285376}
+Shuffle #4:    {'macro': 0.09345590472746282, 'micro': 0.4964559952746604}
+Shuffle #5:    {'macro': 0.09382970837031897, 'micro': 0.5010279001468428}
+Shuffle #6:    {'macro': 0.09263091668881025, 'micro': 0.49091441969519345}
+Shuffle #7:    {'macro': 0.09454946913859674, 'micro': 0.502206531332745}
+Shuffle #8:    {'macro': 0.09223865529376872, 'micro': 0.4940155595451825}
+Shuffle #9:    {'macro': 0.09349404633525822, 'micro': 0.49513417870834564}
+Shuffle #10:    {'macro': 0.09461824741286293, 'micro': 0.5029922202274087}
+Average score: {'macro': 0.09445915254572529, 'micro': 0.49957528884965435}
+-------------------
+Train percent: 0.6000000000000001
+Shuffle #1:    {'macro': 0.09416903127553619, 'micro': 0.5091307523739956}
+Shuffle #2:    {'macro': 0.09810214425325396, 'micro': 0.5090040426313855}
+Shuffle #3:    {'macro': 0.09988802592598346, 'micro': 0.5102268501301599}
+Shuffle #4:    {'macro': 0.09656469351152389, 'micro': 0.5099778270509978}
+Shuffle #5:    {'macro': 0.09709565811873291, 'micro': 0.5060863150129103}
+Shuffle #6:    {'macro': 0.09662552448770842, 'micro': 0.4961496149614962}
+Shuffle #7:    {'macro': 0.0940660850327106, 'micro': 0.5046244913059563}
+Shuffle #8:    {'macro': 0.09147615674365679, 'micro': 0.496057078482914}
+Shuffle #9:    {'macro': 0.09895422478519919, 'micro': 0.5053328429569695}
+Shuffle #10:    {'macro': 0.09412970016161777, 'micro': 0.5046974821495678}
+Average score: {'macro': 0.09610712442959232, 'micro': 0.5051287297056353}
+-------------------
+Train percent: 0.7000000000000001
+Shuffle #1:    {'macro': 0.0964627554334541, 'micro': 0.5094890510948905}
+Shuffle #2:    {'macro': 0.09686108807221533, 'micro': 0.5049261083743842}
+Shuffle #3:    {'macro': 0.09290384840345804, 'micro': 0.5146401985111663}
+Shuffle #4:    {'macro': 0.09039093279861418, 'micro': 0.5136071251855517}
+Shuffle #5:    {'macro': 0.10445018180207162, 'micro': 0.5092143549951503}
+Shuffle #6:    {'macro': 0.09300184614719273, 'micro': 0.4913665515540207}
+Shuffle #7:    {'macro': 0.0932926150292553, 'micro': 0.5036603221083455}
+Shuffle #8:    {'macro': 0.094880585573716, 'micro': 0.5022556390977444}
+Shuffle #9:    {'macro': 0.09722751143800205, 'micro': 0.5002457002457003}
+Shuffle #10:    {'macro': 0.09385306405410244, 'micro': 0.5084577114427861}
+Average score: {'macro': 0.09533244287520817, 'micro': 0.5057862762609739}
+-------------------
+Train percent: 0.8
+Shuffle #1:    {'macro': 0.09003171845773658, 'micro': 0.503258508327299}
+Shuffle #2:    {'macro': 0.09538009317944499, 'micro': 0.5140324963072378}
+Shuffle #3:    {'macro': 0.09104973711591188, 'micro': 0.5204379562043796}
+Shuffle #4:    {'macro': 0.09162326157656142, 'micro': 0.5159883720930233}
+Shuffle #5:    {'macro': 0.10910918879660707, 'micro': 0.5142439737034331}
+Shuffle #6:    {'macro': 0.0951985538881394, 'micro': 0.4855448480355819}
+Shuffle #7:    {'macro': 0.08787463303826927, 'micro': 0.49229640498899485}
+Shuffle #8:    {'macro': 0.09537588006752545, 'micro': 0.4924812030075188}
+Shuffle #9:    {'macro': 0.1126992931900177, 'micro': 0.4992401215805471}
+Shuffle #10:    {'macro': 0.08761419344718525, 'micro': 0.4978038067349927}
+Average score: {'macro': 0.0955956552757399, 'micro': 0.5035327690983007}
+-------------------
+Train percent: 0.9
+Shuffle #1:    {'macro': 0.09513856464775468, 'micro': 0.515850144092219}
+Shuffle #2:    {'macro': 0.09556422985894997, 'micro': 0.503725782414307}
+Shuffle #3:    {'macro': 0.08791699941968213, 'micro': 0.5272206303724928}
+Shuffle #4:    {'macro': 0.09380237679716126, 'micro': 0.5128205128205128}
+Shuffle #5:    {'macro': 0.11487347110465693, 'micro': 0.5166908563134979}
+Shuffle #6:    {'macro': 0.09781504582643685, 'micro': 0.4906204906204906}
+Shuffle #7:    {'macro': 0.08958621586716288, 'micro': 0.49262536873156343}
+Shuffle #8:    {'macro': 0.09053959777764756, 'micro': 0.48411497730711045}
+Shuffle #9:    {'macro': 0.08580148580107898, 'micro': 0.4947526236881559}
+Shuffle #10:    {'macro': 0.09705442146668668, 'micro': 0.5029239766081871}
+Average score: {'macro': 0.09480924085672178, 'micro': 0.5041345362968538}
+-------------------
